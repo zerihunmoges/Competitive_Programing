@@ -22,6 +22,7 @@
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zerihunMoges/Competitive_Programing/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0420-strong-password-checker](https://github.com/zerihunMoges/Competitive_Programing/tree/master/0420-strong-password-checker) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -51,4 +54,17 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
