@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zerihunMoges/Competitive_Programing/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
