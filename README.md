@@ -23,6 +23,7 @@
 | [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zerihunMoges/Competitive_Programing/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/zerihunMoges/Competitive_Programing/tree/master/0420-strong-password-checker) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -59,10 +62,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -72,4 +77,13 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
