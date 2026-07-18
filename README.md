@@ -22,6 +22,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zerihunMoges/Competitive_Programing/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3620-network-recovery-pathways) |
@@ -89,9 +90,11 @@
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
