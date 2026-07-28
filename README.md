@@ -7,6 +7,7 @@
 | [0420-strong-password-checker](https://github.com/zerihunMoges/Competitive_Programing/tree/master/0420-strong-password-checker) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zerihunMoges/Competitive_Programing/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/zerihunMoges/Competitive_Programing/tree/master/3447-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -100,4 +102,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zerihunmoges/Competitive_Programing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zerihunmoges/Competitive_Programing/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
